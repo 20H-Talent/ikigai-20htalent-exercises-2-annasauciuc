@@ -1,0 +1,18 @@
+/* Use the pseudo-class selector that targets default, unvisited links. Set their color value to orange. */
+
+a:link {
+    color:orange;
+}
+/* Next, create a pseudo-class selector that targets all visited links. Add a color property and set the value to steelblue. */
+
+a:visited {
+    color: steelblue;
+}
+
+ a:hover {
+
+  color:tomato;
+
+    }
+ 
+
