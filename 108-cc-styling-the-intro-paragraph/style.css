@@ -1,0 +1,17 @@
+/* In the style sheet, select the intro class and add a font-size property. Using 16px as the parent font-size context, give intro an em font-size value equivalent to 20px. */
+
+
+.intro{
+
+    font-size: 1.25em/1.6 inherit;
+    line-height:1.6;
+
+}
+.intro span{
+    font-weight:bold;
+    font-style:italic;
+  }
+  /* Finally, create a new rule that removes the underline from all unvisited links on the page. */
+  a:link{
+    text-decoration-line: none;
+  }
