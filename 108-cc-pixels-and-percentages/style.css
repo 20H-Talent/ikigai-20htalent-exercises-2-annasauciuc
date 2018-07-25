@@ -1,4 +1,13 @@
-
+/* Let's make the <span> element with the class "title" larger. Increase its font size to 26 pixels. */
 .title {
     font-size: 28px;
+}
+/* Next, increase the font size of the h2 element to 53 pixels. */
+h2{
+    font-size:53px;
+}
+/* Finally, let's reduce the width of the main-content div. Give it a width value that takes up 75 percent of its container's width. */
+.main-content{
+
+    width:75%;
 }
