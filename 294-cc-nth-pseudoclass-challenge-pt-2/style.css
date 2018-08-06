@@ -1,0 +1,8 @@
+@media (min-width: 607px) {
+    img {
+        float: left;
+    }
+    img:nth-of-type(3n+4) {
+        clear: left;
+    }
+}
