@@ -1,0 +1,4 @@
+img[title^="product-"] {
+    border-color: lightblue;
+  }
+
