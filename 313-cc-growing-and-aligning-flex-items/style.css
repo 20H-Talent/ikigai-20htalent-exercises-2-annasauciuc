@@ -4,3 +4,6 @@
 .column{
     flex-grow: 1;
 }
+.primary{
+ flex-grow:2;
+}
