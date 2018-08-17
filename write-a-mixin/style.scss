@@ -2,4 +2,8 @@ $btn-background: #dc143c;
 
 /* Write your SCSS code below. */
 
-
+Create a mixin called "button" that sets font-size to 1.25em and background-color to the variable $btn-background.
+@mixin button{
+    font-size:1.25em;
+    background-color:$btn-background;
+}
