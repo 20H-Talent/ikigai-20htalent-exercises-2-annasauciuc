@@ -5,7 +5,12 @@
 .img-author {
   @extend .roundy;
 }
-%warning{
-    font-weight:bold;
-    color:red;
+%warning {
+  font-weight: bold;
+  color: red;
+}
+.message-box {
+  p {
+    @extend %warning;
+  }
 }
