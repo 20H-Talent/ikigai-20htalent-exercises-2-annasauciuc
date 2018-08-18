@@ -3,3 +3,4 @@
     height:$size;
     border:$color 1px solid;
 }
+@include square($size:50px, $color:red);
